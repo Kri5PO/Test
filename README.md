@@ -14,6 +14,6 @@
 
 [Mos_children.gdb.zip](https://github.com/Kri5PO/Test/blob/main/Mos_children.gdb.zip) - архив с исходными данными
 
-[Toolbox.tbx](https://github.com/Kri5PO/Test/blob/main/Toolbox.tbx) - набора инструментов для ArcGIS с разработанными моделями
+[Toolbox.tbx](https://github.com/Kri5PO/Test/blob/main/Toolbox.tbx) - набор инструментов для ArcGIS с разработанными моделями
 
 [Открыть Notebook](https://github.com/Kri5PO/Test/blob/main/Mos_for_children.ipynb)
